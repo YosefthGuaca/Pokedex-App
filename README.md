@@ -2,8 +2,8 @@
 
 ## Guide
 1. Create a React application using Vite
-2. Choose an API from where you will pull your initial data
-3. You decide what pages to include in your application
+2. Choosing an API from where pull your initial data
+
 
 ## Guidelines
 
